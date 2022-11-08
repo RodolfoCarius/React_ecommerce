@@ -1,0 +1,24 @@
+Instalacoes:
+
+Criar projeto__
+npx create-react-app my-app
+
+Abrir projeto__
+dentro da pasta
+npm start
+
+
+Instalar bibliotecas
+BOOTSTRAP + REACT_BOOTSTRAP
+npm install bootstrap@5.2.2 react-bootstrap
+
+
+npm install react-router-dom@6
+react-router-dom
+
+
+npm install styled-components --save
+styled-component
+
+Axios
+npm i axios cors express

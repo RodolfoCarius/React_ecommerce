@@ -1,0 +1,16 @@
+.nav-cont{
+    font-weight: 500;
+    position: relative;   
+}
+
+.nav-logo{
+    position: relative;
+    left: 10%;
+}
+
+.nav-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
